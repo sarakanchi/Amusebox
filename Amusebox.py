@@ -140,7 +140,7 @@ if(expirydate>today):
     Finalend = now.replace(hour=20, minute=35, second=0, microsecond=0)
 
     if (True):
-            period=385
+            period=307
             hero()
     elif(False):
             period=342
